@@ -1,4 +1,4 @@
-<h1 align="center">Oie! Eu sou a Yasmin</h1>
+<h1 align="left">Oie! Eu sou a Yasmin</h1>
 
 <h3 align="left">GitHub stats:</h3>
 
