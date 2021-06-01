@@ -3,7 +3,8 @@
 <h3 align="left">GitHub stats:</h3>
 
 ![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvayasmin0151&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvayasmin0151&layout=compact&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvayasmin0151&langs_count=8&layout=compact&show_icons=true&theme=midnight-purple)
+
 
 <h3 align="left">Languages and Tools:</h3>
 
